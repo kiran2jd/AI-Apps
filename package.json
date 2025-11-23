@@ -33,9 +33,10 @@
     "typescript": "^5.1.3"
   },
   "private": true,
-  "homepage": "https://<YOUR_USERNAME>.github.io/<REPO_NAME>",
+  "homepage": "https://kiran2jd.github.io/AI-Apps",
 "scripts": {
   "deploy": "expo export -p web && gh-pages -d dist"
 }
 }
+
 
